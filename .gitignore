@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+.vscode/
+data_raw/
+models/
+logs/
+*.csv
+*.parquet
+*.zip
